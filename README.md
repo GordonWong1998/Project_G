@@ -1,3 +1,3 @@
 # Project_G
 
-Testing for Commit.
+Testing for commit
